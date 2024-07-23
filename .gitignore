@@ -1,0 +1,9 @@
+.idea/
+coco/
+venv/
+runs/
+yolo_train_annotations/
+annotations/
+
+yolov8m.pt
+yolov8n.pt
